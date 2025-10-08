@@ -1,0 +1,4 @@
+#Fri Jun 18 00:14:27 IST 2021
+base.0=C\:\\Users\\msi\\Desktop\\android\\tetris\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
